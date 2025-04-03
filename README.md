@@ -32,7 +32,7 @@ cd search-engine-cpp
 To compile the code, run the following command:
 
 ```bash
-g++ -o search_server search_server.cpp -pthread
+g++ -o search_server main.cpp -pthread
 ```
 
 This will compile the C++ code and generate an executable named `search_server`.
