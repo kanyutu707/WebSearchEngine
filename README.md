@@ -23,8 +23,8 @@ This project implements a basic **search engine** using **C++** with a simple **
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/search-engine-cpp.git
-cd search-engine-cpp
+git clone https://github.com/kanyutu707/WebSearchEngine.git
+cd WebSearchEngine
 ```
 
 ### 2. Compile the Code
